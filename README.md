@@ -1,5 +1,6 @@
 API referente ao projeto NutriDash
 
+-------------------------------------------------------------------------------------
 Para rodar o projeto, você precisará:
 
 **Dependências necessarias**
