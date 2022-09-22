@@ -1,11 +1,15 @@
-﻿# NutriDash-Back-end
+API referente ao projeto NutriDash
 
-**Dependências necessarias
+Para rodar o projeto, você precisará:
+
+**Dependências necessarias**
   bcrypt
   dotenv 
   express
   jsonwebtoken
   mongoose 
+  
+-------------------------------------------------------------------------------------
 
 Para executar o projeto, é necessario criar o arquivo .ENV e inserir suas credenciais
 Ex.
