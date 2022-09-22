@@ -1,7 +1,6 @@
 <b>API referente ao projeto NutriDash</b>
 
 -------------------------------------------------------------------------------------
-Para rodar o projeto, você precisará:
 
 **Dependências necessarias**
   <ul>
