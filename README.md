@@ -1,4 +1,4 @@
-<b>API referente ao projeto NutriDash</b>
+<b>API referente ao projeto NutriDash</b> -- [DESCONTINUADO POIS DECIDIMOS UTILIZAR ]
 
 -------------------------------------------------------------------------------------
 
